@@ -8,5 +8,5 @@ For example, chairs might be lightweight and have a flat shipping rate, while so
 Implementing separate shipping logic within each furniture class would lead to tight coupling and difficulty adding new furniture types in the future.
 </p>
 
-<h1>UML Class Diagram</h1>
-<img src="" alt="uml_class_diagram_image">
+<h2>UML Class Diagram</h2>
+<img src="Blank diagram (4).png" alt="uml_class_diagram_image">
